@@ -1,0 +1,16 @@
+{
+  "name": "hiveapi",
+  "version": "0.1.0",
+  "description": "",
+  "main": "hive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "equaliser",
+  "license": "MIT",
+  "dependencies": {
+    "@hivechain/dhive": "^0.13.4",
+    "@hiveio/hive-js": "^0.1.0",
+    "node-fetch": "^2.6.0"
+  }
+}
