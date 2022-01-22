@@ -11,6 +11,6 @@
   "dependencies": {
     "@hivechain/dhive": "^0.13.4",
     "@hiveio/hive-js": "^0.1.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   }
 }
